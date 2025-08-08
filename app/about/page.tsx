@@ -70,7 +70,7 @@ const AboutPage = () => {
                         </div>
                         <div className='bg-gradient-to-br from-green-50 to-teal-50 dark:from-green-900/20 dark:to-teal-900/20 p-6 rounded-2xl border border-green-100 dark:border-green-800/50'>
                             <div className='text-3xl font-bold text-green-600 dark:text-green-400 mb-2'>
-                                $2M+
+                                ₹50L+
                             </div>
                             <div className='text-gray-600 dark:text-gray-400 font-medium'>
                                 Money Tracked
@@ -192,7 +192,7 @@ const AboutPage = () => {
                                 smarter, more intuitive, and more effective.
                             </p>
                             <p className='text-lg text-gray-600 dark:text-gray-400 leading-relaxed'>
-                                Since our launch, we&#39;ve helped thousands of users achieve
+                                Since our launch, we've helped thousands of users achieve
                                 better budgeting and improve their overall financial health
                                 through the power of artificial intelligence. Every feature is
                                 designed with user experience and financial wellness in mind.
@@ -215,7 +215,7 @@ const AboutPage = () => {
                                 <div className='flex items-center gap-4'>
                                     <div className='w-3 h-3 bg-emerald-500 dark:bg-emerald-400 rounded-full'></div>
                                     <div className='text-gray-900 dark:text-gray-100 font-medium'>
-                                        Founded in 2024
+                                        Founded in 2025
                                     </div>
                                 </div>
                                 <div className='flex items-center gap-4'>
