@@ -65,7 +65,7 @@ export async function generateExpenseInsights(
     3. Money-saving opportunities
     4. Positive reinforcement for good habits
 
-    Return only valid JSON array, no additional text.`;
+    Return only valid JSON array, no additional text. Use ₹ for amounts.`;
 
         const completion = await openai.chat.completions.create({
             model: 'deepseek/deepseek-chat-v3-0324:free',
