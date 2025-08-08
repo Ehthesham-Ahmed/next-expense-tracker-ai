@@ -45,7 +45,7 @@ export default async function HomePage() {
                   </h2>
                 </div>
                 <p className='text-sm sm:text-base text-gray-600 dark:text-gray-400 mb-4 sm:mb-6 max-w-md mx-auto sm:mx-0'>
-                  Here's a quick overview of your recent expense activity.
+                  Here is a quick overview of your recent expense activity.
                   Track your spending, analyze patterns, and manage your budget
                   efficiently!
                 </p>

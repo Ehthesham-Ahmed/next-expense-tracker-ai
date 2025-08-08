@@ -189,12 +189,12 @@ const Guest = () => {
                                 <div className='flex items-center gap-3 mb-4'>
                                     <div className='w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-br from-emerald-500 via-green-500 to-teal-500 rounded-full flex items-center justify-center shadow-lg'>
                                         <span className='text-white text-xs sm:text-sm font-bold'>
-                                            S
+                                            A
                                         </span>
                                     </div>
                                     <div>
                                         <div className='font-bold text-gray-900 dark:text-gray-100 text-sm sm:text-base'>
-                                            Sarah L.
+                                            Abcd E.
                                         </div>
                                         <div className='text-xs sm:text-sm text-gray-500 dark:text-gray-400'>
                                             Verified User
@@ -217,12 +217,12 @@ const Guest = () => {
                                 <div className='flex items-center gap-3 mb-4'>
                                     <div className='w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-br from-green-500 via-teal-500 to-emerald-500 rounded-full flex items-center justify-center shadow-lg'>
                                         <span className='text-white text-xs sm:text-sm font-bold'>
-                                            J
+                                            E
                                         </span>
                                     </div>
                                     <div>
                                         <div className='font-bold text-gray-900 dark:text-gray-100 text-sm sm:text-base'>
-                                            John D.
+                                            Efgh I.
                                         </div>
                                         <div className='text-xs sm:text-sm text-gray-500 dark:text-gray-400'>
                                             Verified User
@@ -245,12 +245,12 @@ const Guest = () => {
                                 <div className='flex items-center gap-3 mb-4'>
                                     <div className='w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-br from-teal-500 via-emerald-500 to-green-500 rounded-full flex items-center justify-center shadow-lg'>
                                         <span className='text-white text-xs sm:text-sm font-bold'>
-                                            E
+                                            J
                                         </span>
                                     </div>
                                     <div>
                                         <div className='font-bold text-gray-900 dark:text-gray-100 text-sm sm:text-base'>
-                                            Emily R.
+                                            Jklm N.
                                         </div>
                                         <div className='text-xs sm:text-sm text-gray-500 dark:text-gray-400'>
                                             Verified User
@@ -258,8 +258,8 @@ const Guest = () => {
                                     </div>
                                 </div>
                                 <p className='text-sm sm:text-base text-gray-700 dark:text-gray-300 leading-relaxed mb-4'>
-                                    "ExpenseTracker AI is so intelligent and easy to use.
-                                    The AI recommendations are spot-on and have genuinely improved my financial habits!"
+                                    “ExpenseTracker AI is so intelligent and easy to use.
+                                    The AI recommendations are spot-on and have genuinely improved my financial habits!”
                                 </p>
                                 <div className='flex text-emerald-500 text-xs sm:text-sm'>
                                     ⭐⭐⭐⭐⭐

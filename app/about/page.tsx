@@ -192,7 +192,7 @@ const AboutPage = () => {
                                 smarter, more intuitive, and more effective.
                             </p>
                             <p className='text-lg text-gray-600 dark:text-gray-400 leading-relaxed'>
-                                Since our launch, we've helped thousands of users achieve
+                                Since our launch, we have helped thousands of users achieve
                                 better budgeting and improve their overall financial health
                                 through the power of artificial intelligence. Every feature is
                                 designed with user experience and financial wellness in mind.
